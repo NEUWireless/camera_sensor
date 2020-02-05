@@ -1,4 +1,4 @@
-(kicad_pcb (version 20171130) (host pcbnew "(5.1.4)-1")
+(kicad_pcb (version 20171130) (host pcbnew "(5.1.5)-3")
 
   (general
     (thickness 1.6)
@@ -10,6 +10,13 @@
   )
 
   (page A4)
+  (title_block
+    (title "Crude Camera Sensor")
+    (date 2020-02-04)
+    (rev 1.1)
+    (company "Northeastern Wireless Club")
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
@@ -190,38 +197,8 @@
     (add_net "Net-(J1-Pad7)")
     (add_net "Net-(J1-Pad8)")
     (add_net "Net-(J1-Pad9)")
-    (add_net "Net-(SHIELD1-Pad0)")
-    (add_net "Net-(SHIELD1-Pad1)")
-    (add_net "Net-(SHIELD1-Pad10)")
-    (add_net "Net-(SHIELD1-Pad11)")
-    (add_net "Net-(SHIELD1-Pad12)")
-    (add_net "Net-(SHIELD1-Pad13)")
-    (add_net "Net-(SHIELD1-Pad14)")
-    (add_net "Net-(SHIELD1-Pad15)")
-    (add_net "Net-(SHIELD1-Pad16)")
-    (add_net "Net-(SHIELD1-Pad17)")
-    (add_net "Net-(SHIELD1-Pad18)")
-    (add_net "Net-(SHIELD1-Pad19)")
     (add_net "Net-(SHIELD1-Pad2)")
     (add_net "Net-(SHIELD1-Pad3)")
-    (add_net "Net-(SHIELD1-Pad38)")
-    (add_net "Net-(SHIELD1-Pad39)")
-    (add_net "Net-(SHIELD1-Pad3V3)")
-    (add_net "Net-(SHIELD1-Pad4)")
-    (add_net "Net-(SHIELD1-Pad40)")
-    (add_net "Net-(SHIELD1-Pad41)")
-    (add_net "Net-(SHIELD1-Pad5)")
-    (add_net "Net-(SHIELD1-Pad50)")
-    (add_net "Net-(SHIELD1-Pad51)")
-    (add_net "Net-(SHIELD1-Pad52)")
-    (add_net "Net-(SHIELD1-Pad53)")
-    (add_net "Net-(SHIELD1-Pad5V)")
-    (add_net "Net-(SHIELD1-Pad6)")
-    (add_net "Net-(SHIELD1-Pad7)")
-    (add_net "Net-(SHIELD1-Pad8)")
-    (add_net "Net-(SHIELD1-Pad9)")
-    (add_net "Net-(SHIELD1-PadAREF)")
-    (add_net "Net-(SHIELD1-PadV_IN)")
   )
 
   (net_class Power ""
@@ -11362,7 +11339,7 @@
     (pad 14 thru_hole oval (at 68.58 -50.8 90) (size 2.54 1.524) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
   )
 
-  (gr_text "Crude Camera Senor V1.0" (at 178.5 78.5 90) (layer F.SilkS)
+  (gr_text "Crude Camera Sensor V1.1" (at 178.5 78.5 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "Northeastern Wireless Club" (at 177 78 90) (layer F.SilkS)
