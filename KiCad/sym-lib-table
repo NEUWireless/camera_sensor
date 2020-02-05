@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name arduino_shieldsNCL)(type Legacy)(uri ${KIPRJMOD}/Arduino_Shield_Modules_for_KiCad_V3/arduino_shieldsNCL.lib)(options "")(descr ""))
+  (lib (name WirelessClubLogo)(type Legacy)(uri ${KIPRJMOD}/WirelessClubLogo.lib)(options "")(descr ""))
+)

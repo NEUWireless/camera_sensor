@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name arduino_shields)(type Legacy)(uri ${KIPRJMOD}/Arduino_Shield_Modules_for_KiCad_V3/arduino_shields.mod)(options "")(descr ""))
+  (lib (name logo)(type KiCad)(uri ${KIPRJMOD}/logo.pertty)(options "")(descr ""))
+)
